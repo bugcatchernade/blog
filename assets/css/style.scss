@@ -2,8 +2,14 @@
 ---
 
 @import "{{ site.theme }}";
+
+body {
+  background-image: url("assets/images/page-bg.jpg");
+}
+
 .main-content {
   h1 {
    color: #ff0000;
  }
+ 
 }
