@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "jekyll-theme-minima";
+@import "{{ site.theme }}";
 
 body {
   background-image: url("https://github.com/bugcatchernade/blog/assets/images/page-bg.jpg");
