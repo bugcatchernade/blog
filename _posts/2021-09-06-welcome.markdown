@@ -1,6 +1,6 @@
 ---
 layout: post
-by: 'Nade'
+author: 'Nade'
 title: 'Introduction.'
 permalink: /welcome/
 ---
