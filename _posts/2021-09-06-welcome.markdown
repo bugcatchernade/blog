@@ -1,6 +1,6 @@
 ---
 layout: post
-by: 'Nade'
+author: 'Nade'
 title: 'Introduction.'
 permalink: /welcome/
 ---
@@ -15,5 +15,4 @@ methods humans and computers use to store, share, and process data. You can expe
 Aside from that I always enjoy some gaming with buddies and may even chronical some of that here as well. 
 With that said I invite you to join me on my quest to pwn the web. Thanks for visiting.
 
-Peace, Love, Code,
-Nade
+
