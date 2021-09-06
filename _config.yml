@@ -17,7 +17,7 @@ title: You either know or you dont.
 email: bugcatchernade@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   root@bugcatchernade.com$ cd blog
-baseurl: "/blog/home" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://bugcatchernade.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bugcatchernade
 github_username:  bugcatchernade
