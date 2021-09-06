@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Welcome to my blog.'
+by: 'Nade'
+title: 'Introduction.'
 permalink: /welcome/
 ---
 
