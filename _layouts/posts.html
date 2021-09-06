@@ -12,9 +12,9 @@ layout: default
 {% if page.tags %}
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
 {% endif %}
-<h2>{{ site.data.navigation.sidebar-nav }}</h2>
+<h2>{{ site.data.navigation.nav-title }}</h2>
 <ul>
-   {% for item in site.data.samplelist.docs %}
+   {% for item in site.data.navigation.sidebar-nav %}
       <li><a href="{{ item.url }}">{{ item.title }}</a></li>
    {% endfor %}
 </ul>
