@@ -3,6 +3,10 @@ layout: post
 author: 'Nade'
 title: 'Introduction.'
 permalink: /welcome/
+sidebar:
+  title: "Blog Index"
+  nav: sidebar-nav
+
 ---
 
 Welcome! My goal for this blog is to document my thoughts and the things I learn to make them available
