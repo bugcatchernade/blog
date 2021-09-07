@@ -25,14 +25,14 @@ body {
 
 .container {
   width: 90%;
-  max-width: 1500px;
+  max-width: 1000px;
   margin: 0 auto;
 }
 
 
 section {
   display: block;
-  margin: 0 0 10px 0;
+  margin: 0 0 20px 0;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -50,7 +50,7 @@ li {
 */
 
 header {
-  background: url("../assets/header-bg.jpg");
+  background: rgba(0, 0, 0, 0.1);
   border-bottom: 1px dashed $conifer; //header;
   padding: 20px;
   margin: 0 0 40px 0;
@@ -270,10 +270,4 @@ a:active, a:focus {
 
 #wrapper {
   min-height: calc(100vh - 100px);
-}
-
-/* My Additions */
-
-.header-text{
-   text-align: center;
 }
