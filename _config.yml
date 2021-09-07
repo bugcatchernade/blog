@@ -1,11 +1,11 @@
-title: Hacker-Blog
-description: "A Jekyll Blog Theme For Hackers"
+title: For Hackers By Hackers
+description: "Cybersecurity Blog"
 author:
-  name: "SomeHacker"
-  email: "someone@somewebsite.somedomain"
-  url: "https://ashishchaudhary.in/hacker-blog"
+  name: "BugcatcherNade"
+  email: "bugcatchernade@protonmail.com"
+  url: "https://forhackersbyhackers.com"
 
-baseurl: /
+baseurl: /blog
 
 source: .
 destination: ./_site
@@ -28,5 +28,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "SomeHacker"
-year : "2020"
+owner : "BugCatcher Nade"
+year : "2021"
