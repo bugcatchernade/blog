@@ -1,7 +1,7 @@
 title: For Hackers By Hackers
 description: "Cybersecurity Blog"
 author:
-  name: "BugcatcherNade"
+  name: "Nade"
   email: "bugcatchernade@protonmail.com"
   url: "https://forhackersbyhackers.com"
 
@@ -28,5 +28,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "BugCatcher Nade"
+owner : "BugCatcherNade"
 year : "2021"
