@@ -93,6 +93,7 @@ header h2 {
   width: 100%;
   -webkit-font-smoothing: antialiased;
   background-color: $cod-grey;
+  padding: 10px;
 }
 section img {
   max-width: 100%
@@ -127,7 +128,7 @@ h1, h2, h3, h4, h5, h6 {
 #main_content h5 {
   font-size: 12px;
   text-transform: uppercase;
-  margin: 0 0 15px 0;
+  margin: 0 0 5px 0;
 }
 
 #main_content h6 {
