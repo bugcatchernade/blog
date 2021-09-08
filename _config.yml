@@ -1,11 +1,11 @@
-title: ForHackersByHackers
+title: "ForHackersByHackers"
 description: "Cybersecurity Blog"
 author:
   name: "Nade"
   email: "bugcatchernade@protonmail.com"
-  url: "https://forhackersbyhackers.com"
+  url: "https://blog.forhackersbyhackers.com"
 
-baseurl: /blog
+baseurl: /
 
 source: .
 destination: ./_site
@@ -28,5 +28,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "BugCatcherNade"
+owner : "ForHackersByHackers"
 year : "2021"
