@@ -8,4 +8,4 @@ ForHackersByHackers is exactly that. A place for research and the exchange of in
 
 Yours Truly,
 
-BugcatcherNade
+FHBH
